@@ -9,3 +9,5 @@ is trained.
 
 Although I have tried to explain my code with comments, but for any issues you can just create a Issue and I'll try to
 resolve it.
+
+Todo : Adding the outputs from tensorboard and explaining them in a separate blog-post
