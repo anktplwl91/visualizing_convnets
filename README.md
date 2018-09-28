@@ -1,5 +1,5 @@
 # visualizing_convnets
-This is the code repository for my Medium post "Understanding your Convolution network with Visualizations"
+This is the code repository for my Medium post **Understanding your Convolution network with Visualizations**
 I have used the following dataset https://www.kaggle.com/alxmamaev/flowers-recognition for training my InceptionV3 model.
 
 You can use **create_train_val_test.py** to create Training, Validation and Test directories out of original datasets.
