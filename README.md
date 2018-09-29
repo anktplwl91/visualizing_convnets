@@ -8,6 +8,7 @@ shown in my blog post. Note that the images might differ depending on what test 
 is trained.
 
 Although I have tried to explain my code with comments, but for any issues you can just create a Issue and I'll try to
-resolve it.
+resolve it. I have taken the code inspiration from the book **Deep Learning in Python** by **Francois Chollet**. I highly
+recommend for everybody to read this book espeicially if you are new to the field.
 
 Todo : Adding the outputs from tensorboard and explaining them in a separate blog-post
